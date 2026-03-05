@@ -43,7 +43,7 @@
 class SasipriyaK:
     def __init__(self):
         self.name        = "Sasipriya K"
-        self.degree      = "MSc Data Science [Current]"
+        self.degree      = "MSc AI&Cybersecurity  [Current]"
         self.university  = "Christ (Deemed to be University), Bangalore"
         self.passion     = [
             "Artificial Intelligence",
