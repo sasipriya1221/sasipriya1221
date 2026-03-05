@@ -19,7 +19,7 @@
 
 <!-- Typing roles -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=15&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&multiline=true&width=740&height=28&lines=AI+%2F+Data+Science+%2F+Cybersecurity+Enthusiast+%E2%80%A2+MSc+AI+&CyberSecurity+%40+Christ+University" alt="Role"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=15&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&multiline=true&width=740&height=28&lines=AI+%2F+Data+Science+%2F+Cybersecurity+Enthusiast+%E2%80%A2+MSc+AI+CyberSecurity+%40+Christ+University" alt="Role"/>
 </p>
 
 <br/>
