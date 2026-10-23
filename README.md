@@ -25,8 +25,8 @@
 <a href="https://github.com/AbineshSenthil/Aegis-Sphere"><img src="assets/ep-aegis-sphere.svg" width="100%" alt="Episode 03, Aegis-Sphere. The threat: a cancer hidden behind TB. The defence: a virtual tumor board on one 8 GB GPU."></a>
 <p align="center"><b>▶ <a href="https://aegis-sphere.streamlit.app/">Watch the scene</a></b> &nbsp;·&nbsp; <a href="https://github.com/AbineshSenthil/Aegis-Sphere">Read the script</a> &nbsp;·&nbsp; <sub>Team project with Abinesh S</sub></p>
 
-<a href="https://github.com/sasipriya1221/ECOCOMMIT"><img src="assets/ep-ecocommit.svg" width="100%" alt="Episode 04, ECOCOMMIT. The threat: a misread payment. The defence: blocked at Checkpoint A, no money moved."></a>
-<p align="center"><b>▶ <a href="https://www.youtube.com/watch?v=WjkrzrcffXk">Watch the scene</a></b> &nbsp;·&nbsp; <a href="https://github.com/sasipriya1221/ECOCOMMIT">Read the script</a> &nbsp;·&nbsp; <sub>Team</sub></p>
+<a href="https://github.com/sasipriya1221/sasipriya1221-ECOCOMMIT"><img src="assets/ep-ecocommit.svg" width="100%" alt="Episode 04, ECOCOMMIT. The threat: a misread payment. The defence: blocked at Checkpoint A, no money moved."></a>
+<p align="center"><b>▶ <a href="https://www.youtube.com/watch?v=WjkrzrcffXk">Watch the scene</a></b> &nbsp;·&nbsp; <a href="https://github.com/sasipriya1221/sasipriya1221-ECOCOMMIT">Read the script</a> &nbsp;·&nbsp; <sub>Team</sub></p>
 
 <a href="https://github.com/sasipriya1221/WHO-AM-I"><img src="assets/ep-who-am-i.svg" width="100%" alt="Episode 05, WHO-AM-I. The threat: profiling by inference. The defence: AI suggests, you decide."></a>
 <p align="center"><b>▶ <a href="https://who-am-i-1z33.onrender.com">Watch the scene</a></b> &nbsp;·&nbsp; <a href="https://github.com/sasipriya1221/WHO-AM-I">Read the script</a> &nbsp;·&nbsp; <a href="https://www.youtube.com/watch?v=yhmUB3G9SNA">Video</a> &nbsp;·&nbsp; <sub>Solo · 48 hours</sub></p>
