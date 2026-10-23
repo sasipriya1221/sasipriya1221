@@ -16,7 +16,7 @@ M.Sc. AI & Cybersecurity student at **CHRIST University, Bengaluru**, with a fou
 
 ### [NexusGrid](https://github.com/AbineshSenthil/NexusGrid-CyberPhysEnv) · AI defence for a power grid under cyberattack
 
-<sub>**Top 100 of 31,000+ teams** · OpenEnv Hackathon (Meta, PyTorch, Hugging Face) · Apr 2026 · Team project</sub>
+*Top 100 of 31,000+ teams · OpenEnv Hackathon (Meta, PyTorch, Hugging Face) · Apr 2026 · Team project*
 
 An OpenEnv benchmark where an AI agent defends a 20-node power grid against physical faults and SCADA cyberattacks. It must tell real failures from forged sensor data across six tasks, from duck-curve dispatch to a full black start, with real power-flow physics and fully reproducible scoring.
 
@@ -24,7 +24,7 @@ An OpenEnv benchmark where an AI agent defends a 20-node power grid against phys
 
 ### [Oasis](https://github.com/sasipriya1221/oasis) · Runtime security gateway for AI agents
 
-<sub>Splunk Agentic Ops Hackathon · Jun 2026 · Solo</sub>
+*Splunk Agentic Ops Hackathon · Jun 2026 · Solo*
 
 A runtime security gateway that checks every action an AI agent proposes before it runs, using three defences: prompt-injection detection, live CVE verification against NIST NVD, and a zero-trust permission allowlist. Every verdict is tagged with MITRE ATT&CK, logged to Splunk and exposed as MCP tools.
 
@@ -32,7 +32,7 @@ A runtime security gateway that checks every action an AI agent proposes before 
 
 ### [Aegis-Sphere](https://github.com/AbineshSenthil/Aegis-Sphere) · Offline oncology decision support on one 8 GB GPU
 
-<sub>MedGemma Impact Challenge (Kaggle) · Feb 2026 · Team project</sub>
+*MedGemma Impact Challenge (Kaggle) · Feb 2026 · Team project*
 
 Offline oncology decision support for clinics with no specialist and unreliable internet. It listens to a consultation, spots malignancy signals and convenes a virtual tumor board of eight medical models, including MedGemma and TxGemma, then checks drug interactions and stock, all on a single 8 GB GPU.
 
@@ -40,7 +40,7 @@ Offline oncology decision support for clinics with no specialist and unreliable 
 
 ### [ECOCOMMIT](https://github.com/sasipriya1221/sasipriya1221-ECOCOMMIT) · Payment safety for AI agents
 
-<sub>Razorpay AI Buildathon · Sep 2026 · Team project</sub>
+*Razorpay AI Buildathon · Sep 2026 · Team project*
 
 Payment safety for AI agents. An instruction becomes a typed, inspectable contract, and deterministic code, not the model, decides whether money moves: missing, unclear or stale authority fails closed, with Razorpay Test Mode payments and a full audit trail.
 
@@ -48,7 +48,7 @@ Payment safety for AI agents. An instruction becomes a typed, inspectable contra
 
 ### [WHO-AM-I](https://github.com/sasipriya1221/WHO-AM-I) · Privacy-first self-reflection with AI
 
-<sub>CS Girlies Annual Hackathon · Aug 2026 · Solo, 48 hours</sub>
+*CS Girlies Annual Hackathon · Aug 2026 · Solo, 48 hours*
 
 A self-reflection app where the AI suggests and the person decides. Game answers are never used to profile anyone, every AI guess shows its evidence and can be challenged, renamed or deleted, and deleting a reflection removes the inferences built on it.
 
@@ -63,7 +63,7 @@ A self-reflection app where the AI suggests and the person decides. Game answers
 
 <img src="assets/h-toolkit.svg" width="100%" alt="Toolkit">
 
-| | |
+| Area | Tools |
 |---|---|
 | **Build** | Python · FastAPI · Pydantic · BeautifulSoup |
 | **AI & ML** | PyTorch · Hugging Face · LLM APIs · MCP · FAISS |
